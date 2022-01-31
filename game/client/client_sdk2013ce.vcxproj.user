@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>C:\Program Files %28x86%29\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-game "C:\Program Files (x86)\Steam\steamapps\sourcemods\BasedQuest" +sv_cheats 1</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>C:\Program Files %28x86%29\Steam\steamapps\common\Source SDK Base 2013 Multiplayer</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

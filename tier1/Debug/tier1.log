@@ -1,0 +1,3 @@
+﻿  Running VPC CRC Check - tier1.vpc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): warning MSB8065: Custom build for item "tier1.vpc" succeeded, but specified output "d:\source repos\basedquest\tier1\tier1.vpc.sentinel" has not been created. This may cause incremental build to work incorrectly.
+  tier1.vcxproj -> D:\Source Repos\BasedQuest\lib\public\tier1.lib

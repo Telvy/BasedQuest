@@ -1,0 +1,2 @@
+D:\Source Repos\BasedQuest\lib\public\vgui_controls.pdb
+D:\Source Repos\BasedQuest\vgui2\vgui_controls\Debug\vgui_controls.pdb

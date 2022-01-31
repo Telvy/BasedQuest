@@ -1,0 +1,3 @@
+D:\Source Repos\BasedQuest\game\server\Debug_mod_sdk2013ce\server.dll
+D:\Source Repos\BasedQuest\game\server\Debug_mod_sdk2013ce\server.pdb
+C:\Program Files (x86)\Steam\steamapps\sourcemods\BasedQuest\bin\server.pdb

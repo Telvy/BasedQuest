@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Running VPC CRC Check - client_sdk2013ce.vpc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): warning MSB8065: Custom build for item "client_sdk2013ce.vpc" succeeded, but specified output "d:\source repos\basedquest\game\client\client_sdk2013ce.vpc.sentinel" has not been created. This may cause incremental build to work incorrectly.
+     Creating library C:\Program Files (x86)\Steam\steamapps\sourcemods\BasedQuest\bin\\client.lib and object C:\Program Files (x86)\Steam\steamapps\sourcemods\BasedQuest\bin\\client.exp
+  client_sdk2013ce.vcxproj -> C:\Program Files (x86)\Steam\steamapps\sourcemods\BasedQuest\bin\client.dll
+  Publishing to ..\..\..\game\mod_sdk2013ce\bin\.
+          1 file(s) copied.
+          1 file(s) copied.

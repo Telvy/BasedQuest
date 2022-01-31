@@ -1,0 +1,2 @@
+D:\Source Repos\BasedQuest\lib\public\raytrace.pdb
+D:\Source Repos\BasedQuest\raytrace\Debug\raytrace.pdb

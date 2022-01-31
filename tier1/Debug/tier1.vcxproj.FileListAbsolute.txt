@@ -1,0 +1,2 @@
+D:\Source Repos\BasedQuest\lib\public\tier1.pdb
+D:\Source Repos\BasedQuest\tier1\Debug\tier1.pdb

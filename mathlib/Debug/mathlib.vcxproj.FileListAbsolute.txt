@@ -1,0 +1,2 @@
+D:\Source Repos\BasedQuest\lib\public\mathlib.pdb
+D:\Source Repos\BasedQuest\mathlib\Debug\mathlib.pdb

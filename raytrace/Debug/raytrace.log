@@ -1,0 +1,7 @@
+﻿  Running VPC CRC Check - raytrace.vpc
+  The process cannot access the file because it is being used by another process.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): warning MSB8065: Custom build for item "raytrace.vpc" succeeded, but specified output "d:\source repos\basedquest\raytrace\raytrace.vpc.sentinel" has not been created. This may cause incremental build to work incorrectly.
+  raytrace.cpp
+  trace2.cpp
+  trace3.cpp
+  raytrace.vcxproj -> D:\Source Repos\BasedQuest\lib\public\raytrace.lib
